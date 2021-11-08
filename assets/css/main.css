@@ -862,7 +862,7 @@ body {
         margin-left: 0px;
       }
 	    .home .home-content a{
-	   border-radius: 10px;
+	   border-radius: 1px;
 	    }
     }
 
@@ -872,7 +872,7 @@ body {
         width: 350px;
        }
 	    .home .home-content a{
-	   border-radius: 10px;
+	   border-radius: 1px;
 	    }
     }
 
@@ -882,7 +882,7 @@ body {
       }
 	    
 	    .home .home-content a{
-	   border-radius: 10px;
+	   border-radius: 1px;
 	    }
     }    
 
@@ -989,7 +989,7 @@ body {
       margin-top: 10px;      
       transition: all 0.3s ease;
       text-decoration: none;
-		border-radius: 15px;
+		border-radius: 1px;
       width: 7%;
       text-align: center;
         }
@@ -1012,7 +1012,7 @@ body {
 
       .home .home-content a{
           font-size: 20px;
-	  border-radius: 10px;	    
+	  border-radius: 1px;	    
       }
 
       .projects .serv-content .card{
@@ -1030,7 +1030,7 @@ body {
         font-size: 27px;
         }
 	    .home .home-content a{
-	   border-radius: 10px;
+	   border-radius: 1px;
 	    }
     }
 
